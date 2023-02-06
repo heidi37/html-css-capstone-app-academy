@@ -1,15 +1,28 @@
-H1 headers
-Font:
-Font color:
+# a/A HTML & CSS Capstone
 
-H2 headers
-Font:
-Font color:
+## H1
 
-p
-Font
-Font color
-Text underlined with color:
+Font: Joan
+Font color: #423d33
+
+## H2:
+
+Font: Roboto
+Font color: #0c0f0f
+
+## Body Text
+
+Font: Font: Roboto
+Font color: #333333
+Text underlined with color: #423d33
+
+## Color Palette
+
+--rich-black-fogra-39: #0c0f0f;
+--dutch-white: #eee4c4;
+--granite-gray: #6d6659;
+--cadet-grey: #9cb0bf;
+--black-olive: #423d33;
 
 ## Page 1
 
