@@ -79,7 +79,6 @@ figure {
 
 .hero {
     width: 100vw;
-    /* max-width: 900px; */
     height: 450px;
     object-fit: cover;
 }
